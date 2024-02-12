@@ -79,7 +79,7 @@ export default function (Vue, { head }) {
     content: 'summary'
   }, {
     name: 'twitter:site',
-    content: '@multividaseng'
+    content: '@multividascom'
   }, {
     name: 'twitter:title',
     content: 'Multividas - Social Media and Blogging Platform'
